@@ -1,7 +1,7 @@
 {
   "name": "dosya1",
   "version": "0.1.0",
-  "homepage": "http://tayfunetta.github.io/random-quote-react-",
+  "homepage": "http://tayfunetta.github.io/random-quote",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
